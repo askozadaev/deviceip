@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">История IP адресов устройства</string>
+    <string name="tab_main">Главная</string>
+    <string name="tab_history">История</string>
+    <string name="tab_test">Тесты</string>
+
+    <string name="actual_ip">Текущий IP:</string>
+    <string name="last_Ip">Последний IP:</string>
+    <string name="update_ip">Обновить IP адрес</string>
+    <string name="unknown">неизвестно</string>
+    <string name="loading">загрузка…</string>
+    <string name="failed_get_ip">ошибка получения данных!</string>
+
+    <string name="get_history">Получить историю</string>
+    <string name="clear_history">Очистить историю</string>
+    <string name="history_empty">список адресов пуст!</string>
+
+
+    <string name="test_button">Добавить адрес</string>
+    <string name="help_write_address">Вводите адрес</string>
+
+</resources>
